@@ -1,0 +1,22 @@
+  Welcome to the command center brave one!!
+  Remember the following controls very well unless you want to get doomed at will.
+
+
++------------------------------------------------------------------------------------------+
+|	Key	|	Action	      |
++------------------------------------------------------------------------------------------+
+|	 W	|	Accelerate 	      |
+|	 A	|	Turn Left	      |
+|	 S	|	Decelerate	      |
+|	 D	|	Turn Right	      |
+|                        SPACE	|	Fire Bullet	      |
+|	 R	|	Reset Position	      |
+|	 M	|	Pause Game	      |
+|	 N	| 	Resume Game	      |
++------------------------------------------------------------------------------------------+
+
+  That shouldn't have been too hard..it's just some buttons after all.
+  Go!!! Space-Trooper you are on your own now.
+
+  Run "SpaceShooter.bat" and enjoy :)
+                                             		       - Paras Gherwada

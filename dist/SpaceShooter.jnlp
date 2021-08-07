@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SpaceShooter.jnlp">
+  <information>
+    <title>SpaceShooter</title>
+    <vendor>Paras</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SpaceShooter.jar" size="3586785" download="eager" />
+    <jar href="lib\ojdbc8.jar" size="4161744" download="eager" />
+  </resources>
+  <application-desc main-class="spaceshooter.SpaceShooter"  name="SpaceShooter" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
