@@ -59,7 +59,7 @@ public class GameLoader extends Application {
         
         root.getChildren().add(pane);
         Scene scene = new Scene(root, WIDTH, HEIGHT);
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Space Shooter");
         primaryStage.setScene(scene);
         primaryStage.show();
         
