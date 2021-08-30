@@ -18,5 +18,4 @@
   That shouldn't have been too hard..it's just some buttons after all.
   Go!!! Space-Trooper you are on your own now.
 
-  Run "SpaceShooter.bat" and enjoy :)
                                              		       - Paras Gherwada

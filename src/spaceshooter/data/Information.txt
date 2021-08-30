@@ -1,7 +1,6 @@
 			Space Shooter Game
 
 Name : Paras J. Gherwada 
-Batch  : SYMCA / 1013 
 
 * Background
           - With everyone trying to create applications/projects for managing stuffs, here play the game
@@ -16,9 +15,9 @@ Batch  : SYMCA / 1013
           - Entertainment.
 
 * Technologies
-          - JavaSE (jdk 14.0.2 or jre 8u261)
-          - Text Editor : Gvim
-          - External libraries : javafx
+          - JavaSE (jdk 11.x.x or jre 8u261)
+          - JavaFX
+          - Netbeans 
 
 * Concepts
           - Abstraction/Encapsulation
@@ -31,8 +30,3 @@ Batch  : SYMCA / 1013
 * Scope 
           - The end product of this project will be a miniature version of the classic “Space Shooter”
             game developed using java.
-
-
-* Proposed by:				* Proposed to:
-         - Paras J. Gherwada (SYMCA - 1013)	                                      - Prof. Omprakash Mandge 
-				            (Project Coordinator)
