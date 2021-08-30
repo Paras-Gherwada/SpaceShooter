@@ -1,6 +1,0 @@
-http://tutorials.jenkov.com/javafx/stage.html
-https://docs.oracle.com/javase/8/javafx/api/index.html
-https://www.geeksforgeeks.org/javafx-polygon-with-examples/
-https://www.programcreek.com/java-api-examples/?class=javafx.scene.Scene&method=setOnKeyPressed
-https://www.programcreek.com/java-api-examples/?api=javafx.animation.AnimationTimer
-https://ss64.com/nt/errorlevel.html
